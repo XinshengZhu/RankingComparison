@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment is written and tested entirely on macOS Sequoia throughout the development process.
+This project is written and tested entirely on macOS Sequoia throughout the development process.
 It may not work on other operating systems without modifications.
 
 We perform ranking comparison among three systems:
