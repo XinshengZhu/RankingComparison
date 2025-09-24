@@ -1,5 +1,7 @@
 # Ranking Comparison Among Three Search Systems
 
+**_The previous part of this project is in [SearchSystem](https://github.com/XinshengZhu/SearchSystem)_**
+
 ## Overview
 
 This assignment is written and tested entirely on macOS Sequoia throughout the development process.
