@@ -1,6 +1,6 @@
 # Ranking Comparison Among Three Search Systems
 
-**_The previous part of this project is in [SearchSystem](https://github.com/XinshengZhu/SearchSystem)_**
+**_The previous part of this project is in [SearchSystem](https://github.com/XinshengZhu/SearchSystem)_**.
 
 ## Overview
 
